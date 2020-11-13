@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<wxsmith>
+	<object class="wxFrame" name="testFrame">
+		<title>Пустая программка для CodeBlocks (windows)</title>
+		<centered>1</centered>
+		<icon stock_id="wxART_GO_HOME" />
+		<size>500,300</size>
+	</object>
+</wxsmith>
